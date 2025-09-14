@@ -1,0 +1,1 @@
+This proof of concepts is focused on Banking, financial, securities and Insurance related portfolios, optimizations, migration, upgradation, performance improvements and various tools and accelerator kits that allow easier and faster hassle free change management and transformations  
